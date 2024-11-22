@@ -120,7 +120,7 @@ If you prefer to build and run the application locally:
 ## Instructions for Reviewers
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/receipt-processor-challenge.git
+   git clone https://github.com/abhisripathi/receipt-points-api.git
    ```
 2. Build and run the application using Docker:
    ```bash
@@ -132,6 +132,6 @@ If you prefer to build and run the application locally:
 ---
 
 ## Author
-- **Your Name**
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+- **Purnabhishek Sripathi**
+- Email: abhisripathi5@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/purnabhishek-sripathi/)
