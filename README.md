@@ -134,4 +134,4 @@ If you prefer to build and run the application locally:
 ## Author
 - **Purnabhishek Sripathi**
 - Email: abhisripathi5@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/purnabhishek-sripathi/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/purnabhishek-sripathi/)
